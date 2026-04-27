@@ -1,0 +1,52 @@
+[
+  {
+    "purchase_price": 297.75,
+    "quantity": 1.0,
+    "ticker": "AUTX"
+  },
+  {
+    "purchase_price": 1.0,
+    "quantity": 2518.2,
+    "ticker": "CASH"
+  },
+  {
+    "purchase_price": 130.85,
+    "quantity": 1.0,
+    "ticker": "CRYP"
+  },
+  {
+    "purchase_price": 351.21,
+    "quantity": 1.0,
+    "ticker": "EVGO"
+  },
+  {
+    "purchase_price": 285.22,
+    "quantity": 1.0,
+    "ticker": "HOMR"
+  },
+  {
+    "purchase_price": 127.72,
+    "quantity": 1.0,
+    "ticker": "MEDC"
+  },
+  {
+    "purchase_price": 366.23,
+    "quantity": 1.0,
+    "ticker": "RETL"
+  },
+  {
+    "purchase_price": 132.56,
+    "quantity": 1.0,
+    "ticker": "SNAC"
+  },
+  {
+    "purchase_price": 577.84,
+    "quantity": 1.0,
+    "ticker": "SPCX"
+  },
+  {
+    "purchase_price": 212.42,
+    "quantity": 1.0,
+    "ticker": "TECH"
+  }
+]

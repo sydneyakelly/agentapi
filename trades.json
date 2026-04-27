@@ -1,0 +1,52 @@
+[
+  {
+    "action": "STAY",
+    "ticker": "CASH",
+    "quantity": 0
+  },
+  {
+    "action": "BUY",
+    "ticker": "AUTX",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "CRYP",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "EVGO",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "HOMR",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "MEDC",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "RETL",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "SNAC",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "SPCX",
+    "quantity": 1
+  },
+  {
+    "action": "BUY",
+    "ticker": "TECH",
+    "quantity": 1
+  }
+]
